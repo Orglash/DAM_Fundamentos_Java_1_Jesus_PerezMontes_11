@@ -39,5 +39,7 @@ public class Main {
                 }
             }
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
